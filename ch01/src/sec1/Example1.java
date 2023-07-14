@@ -13,5 +13,6 @@ public class Example1 {
         System.out.println("a="+a);          //변수의 초기화 = 가장 처음 데이터를 넣는 것 / "a"는 그대로이며, +a는 저장된 값을 의미
         System.out.print("i="+i+"\n");       // println은 한 줄에, print는 같은 줄에> 이때 print를 사용하면서 줄을 바꾸고 싶을때는 print("i="+i+"\n"); 사용
         System.out.printf("j=%d",j);         // c언어와 유사하며, 진행내용에 따라 3가지 모두 필요
+        System.out.println();
     }
 }
